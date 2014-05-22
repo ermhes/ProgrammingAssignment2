@@ -6,7 +6,7 @@ This repo includes the source of the Programming Assignment 2 of the Coursera
 The assignment is resolved in two ways: as a normal way (with two functions)
 and also using Referenced Classes in R with some other peculiarities.
 
-The source code is in R/ folder as roxygen2 says.
+**The source code is in *R/* folder** as roxygen2 says.
 
 
 Roxygen2
